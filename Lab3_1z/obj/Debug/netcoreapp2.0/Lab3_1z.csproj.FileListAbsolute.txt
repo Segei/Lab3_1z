@@ -1,0 +1,11 @@
+Z:\Labs\Lab3_1z\Lab3_1z\bin\Debug\netcoreapp2.0\Lab3_1z.deps.json
+Z:\Labs\Lab3_1z\Lab3_1z\bin\Debug\netcoreapp2.0\Lab3_1z.runtimeconfig.json
+Z:\Labs\Lab3_1z\Lab3_1z\bin\Debug\netcoreapp2.0\Lab3_1z.runtimeconfig.dev.json
+Z:\Labs\Lab3_1z\Lab3_1z\bin\Debug\netcoreapp2.0\Lab3_1z.dll
+Z:\Labs\Lab3_1z\Lab3_1z\bin\Debug\netcoreapp2.0\Lab3_1z.pdb
+Z:\Labs\Lab3_1z\Lab3_1z\obj\Debug\netcoreapp2.0\Lab3_1z.csprojResolveAssemblyReference.cache
+Z:\Labs\Lab3_1z\Lab3_1z\obj\Debug\netcoreapp2.0\Lab3_1z.csproj.CoreCompileInputs.cache
+Z:\Labs\Lab3_1z\Lab3_1z\obj\Debug\netcoreapp2.0\Lab3_1z.AssemblyInfoInputs.cache
+Z:\Labs\Lab3_1z\Lab3_1z\obj\Debug\netcoreapp2.0\Lab3_1z.AssemblyInfo.cs
+Z:\Labs\Lab3_1z\Lab3_1z\obj\Debug\netcoreapp2.0\Lab3_1z.dll
+Z:\Labs\Lab3_1z\Lab3_1z\obj\Debug\netcoreapp2.0\Lab3_1z.pdb
